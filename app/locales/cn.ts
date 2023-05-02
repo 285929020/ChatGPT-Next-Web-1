@@ -71,13 +71,13 @@ const cn = {
       All: "所有语言",
       Options: {
         cn: "简体中文",
-        en: "English",
-        tw: "繁體中文",
-        es: "Español",
-        it: "Italiano",
-        tr: "Türkçe",
-        jp: "日本語",
-        de: "Deutsch",
+
+   
+    
+     
+      
+      
+       
       },
     },
     Avatar: "头像",
@@ -92,7 +92,7 @@ const cn = {
       CheckUpdate: "检查更新",
       IsChecking: "正在检查更新...",
       FoundUpdate: (x: string) => `发现新版本：${x}`,
-      GoToUpdate: "前往更新",
+      GoToUpdate: 
     },
     SendKey: "发送键",
     Theme: "主题",
